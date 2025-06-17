@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://github-readme-stats.hackclub.dev/api/wakatime?username=2456&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)" alt="Snake animation" />
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2456&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Snake animation" />
 
 ###
