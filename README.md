@@ -46,16 +46,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Frezzard2/Frezzard2/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<sub>⚠️ Ez a rész csak akkor működik, ha be van állítva a GitHub Actions, szólj, ha segítsek beállítani!</sub>
-
----
-
 ### ⚙️ Tech Stack
 
 <p align="left">
