@@ -1,40 +1,81 @@
-<h2 align="left">Hi 👋! My name is Zsombor and I'm a Software Developer and Tester Student, from Hungary</h2>
+<h1 align="center">Hey, I'm Zsombor 👋</h1>
+<p align="center">
+  🚀 Tech student • 🤖 Robotics enthusiast • 🎧 DJ Freqz • 🧠 AI tinkerer
+</p>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="wave divider"/>
+</p>
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🛠️ Currently Working On
 
-###
+- 🔬 **QuickScanAI** – Smart PDF summarizer with AI-based TL;DR & study notes  
+- 🎵 **BeatPilot** – AI DJ assistant for seamless mix transitions & track analysis  
+- 🚘 **WRO Autonomous Car** – LiDAR + dual ESP32-CAM + Raspberry Pi 5 powered self-driving robot  
+- 🤖 **RMRC Robot** –  🥉 *3rd place* at the RoboCup German Open Major League RMRC competion 2025  
+  [🔗 Check out our robotics team »](https://github.com/SOSRoboticsTeamHU)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🚧 Featured Projects
 
-<br clear="both">
+| 💡 Project | 📄 Description | 🛠️ Tech |
+|-----------|----------------|---------|
+| 🧠 **QuickScanAI** | PDF reader that makes questions and makes keypoints | Python, NLP |
+| 🤖 **RMRC Robot** | Rescue Robot – 3. place in 2025 | Raspberry Pi, HuskyLens |
+| 🎧 **BeatPilot** | AI DJ Assistant | Python, librosa, ML |
+| 🚘 **WRO FE Robot** | Self Driving car project for World Robot Olympiad Future innovators category | Pi 5, YDLidar, OpenCV |
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2456&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Snake animation" />
+---
 
-###
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Frezzard2&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frezzard2&show_icons=true&theme=tokyonight&hide_title=false" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Frezzard2/Frezzard2/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<sub>⚠️ Ez a rész csak akkor működik, ha be van állítva a GitHub Actions, szólj, ha segítsek beállítani!</sub>
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/kukucska_zsombor"><img src="https://img.shields.io/badge/@kukucskazsombor-%23E4405F.svg?logo=instagram&style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:kukucska.zsombor@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> “Simplicity is the soul of efficiency.” – Austin Freeman
