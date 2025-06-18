@@ -11,8 +11,7 @@
 
 ### 🛠️ Currently Working On
 
-- 🔬 **QuickScanAI** – Smart PDF summarizer with AI-based TL;DR & study notes  
-- 🎵 **BeatPilot** – AI DJ assistant for seamless mix transitions & track analysis  
+- 🔬 **FocusForge** – An AI productivity tracker for Windows/MacOS/Linux with so much functionality like Duolingo 
 - 🚘 **WRO Autonomous Car** – LiDAR + dual ESP32-CAM + Raspberry Pi 5 powered self-driving robot  
 - 🤖 **RMRC Robot** –  🥉 *3rd place* at the RoboCup German Open Major League RMRC competion 2025  
   [🔗 Check out our robotics team »](https://github.com/SOSRoboticsTeamHU)
@@ -23,9 +22,7 @@
 
 | 💡 Project | 📄 Description | 🛠️ Tech |
 |-----------|----------------|---------|
-| 🧠 **QuickScanAI** | PDF reader that makes questions and makes keypoints | Python, NLP |
 | 🤖 **RMRC Robot** | Rescue Robot – 3. place in 2025 | Raspberry Pi, HuskyLens |
-| 🎧 **BeatPilot** | AI DJ Assistant | Python, librosa, ML |
 | 🚘 **WRO FE Robot** | Self Driving car project for World Robot Olympiad Future innovators category | Pi 5, YDLidar, OpenCV |
 
 ---
