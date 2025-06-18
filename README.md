@@ -11,7 +11,7 @@
 
 ### 🛠️ Currently Working On
 
-- 🔬 **FocusForge** – An AI productivity tracker for Windows/MacOS/Linux with so much functionality like Duolingo 
+- 🔬 **MindPilot** – AI-powered focus and productivity assistant that helps you manage your time, stay focused, and learn efficiently. 
 - 🚘 **WRO Autonomous Car** – LiDAR + dual ESP32-CAM + Raspberry Pi 5 powered self-driving robot  
 - 🤖 **RMRC Robot** –  🥉 *3rd place* at the RoboCup German Open Major League RMRC competion 2025  
   [🔗 Check out our robotics team »](https://github.com/SOSRoboticsTeamHU)
