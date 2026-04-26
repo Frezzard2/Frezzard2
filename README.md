@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:kukucska.zsombor@gmail.com"><img src="https://img.shields.io/badge/Email-kukucska.zsombor%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/></a>
   <a href="https://www.instagram.com/kukucska_zsombor"><img src="https://img.shields.io/badge/Instagram-@kukucskazsombor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
+  <a href="https://www.linkedin.com/in/zsombor-kukucska-381b19359/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
 </p>
 
 <p align="center">
@@ -14,16 +14,15 @@
 </p>
 
 ## 🎯 Internship focus
-I’m looking for **robotics / autonomy / computer vision** internship opportunities. I enjoy building end‑to‑end systems: **sensors → perception → control → real-world testing**.
+I’m looking for **robotics / autonomy / computer vision** internship opportunities. I enjoy building end‑to‑end systems: **sensors → perception → control → real-world testing**. I am also open to any graphical works and website designs.
 
-**Interested in:** OpenCV, embedded + Raspberry Pi, AI prototyping, autonomous navigation.
+**Interested in:** OpenCV, embedded + Raspberry Pi, AI prototyping, autonomous navigation, websites, graphical designs
 
 ---
 
 ## 🛠️ Currently working on
 - 🔬 **MindPilot** — AI-powered focus & productivity assistant *(in active development)*
-- 🚘 **WRO Autonomous Car** — LiDAR + dual ESP32‑CAM + Raspberry Pi 5 self-driving robot
-- 🤖 **RMRC Robot** — 🥉 **3rd place** at the RoboCup German Open (RMRC), 2025
+- 🤖 **RMRC Robot V2** — Currently preparing for the RoboCup 2026 held in Incheon
   - Team: https://github.com/SOSRoboticsTeamHU
 
 ---
@@ -31,8 +30,9 @@ I’m looking for **robotics / autonomy / computer vision** internship opportuni
 ## 🚧 Featured projects
 | Project | What it is | Highlights | Tech |
 |---|---|---|---|
-| 🤖 **RMRC Robot** | Rescue robot (RMRC) | 🥉 3rd place (2025) | Raspberry Pi, HuskyLens |
 | 🚘 **WRO FE Robot** | WRO Future Innovators self-driving car | Building perception + control pipeline | Pi 5, YDLidar, OpenCV |
+| 🤖 **RMRC Robot** | Rapidly Manufactured Rescue Challenge (RMRC) | 🥉 **3rd place** at the RoboCup German Open (RMRC) and also at the Hungarian Youth Robot Cup (RMRC) | Pi5, OpenCV, Robotic arm, Servo Control |
+| 🤖 **RMRC Robot V2** | Rapidly Manufactured Rescue Challenge (RMRC) | This robot is more robust and effective than its predecessor. Additionally, we will be participating in the RoboCup World Championship in Incheon. | NVIDIA Jetson Orin Nano, Unitree Lidar, Robotic Arm, Servo Control | 
 
 ---
 
