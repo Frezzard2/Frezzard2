@@ -43,8 +43,8 @@ Fast delivery. Clean code. No excuses.
 |:--|:--|:--:|
 | **RMRC Rescue Robot** · autonomous rescue robot | Robotics · Python · OpenCV · RPi | 🏆 |
 | **WRO Autonomous Car** · LiDAR + dual-cam self-driving | Robotics · RPi 5 · YDLidar · CV | 🔧 |
-| **MindPilot** · AI-powered focus & productivity assistant | Web · JavaScript · AI | [↗](https://github.com/Frezzard2/MindPilot) |
-| **SOS Robotics Website** · real client, live in production | Web · HTML · CSS · JS | [↗](https://sosrobotics.hu) |
+| **MindPilot** · AI-powered focus & productivity assistant | Web · JavaScript · AI | [↗](https://mindpilot.onrender.com) |
+| **SOS Robotics Website** · real client, live in production | Web · HTML · CSS · JS | [↗](https://www.sosrobotics.hu) |
 
 <br>
 
@@ -83,7 +83,7 @@ Fast delivery. Clean code. No excuses.
 
 | 🥉 | 1 international podium finish |
 |:--:|:--|
-| 🌍 | competed in Germany at 16 |
+| 🌍 | competed in Germany at 16, preparing for RoboCup 2026 World Championship |
 | 💼 | real clients · real deadlines · real results |
 | ⚡ | 5+ languages · hardware to frontend |
 | 🎧 | DJ Freqz — because why do one thing |
