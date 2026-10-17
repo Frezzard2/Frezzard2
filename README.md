@@ -17,7 +17,7 @@
 
 ### I build things that work.
 
-17 years old. I don't wait until I'm "ready."
+18 years old. I don't wait until I'm "ready."
 I compete internationally, ship real products,
 and write code that goes live — not just on GitHub.
 
